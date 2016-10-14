@@ -1,0 +1,84 @@
+c:\users\brian\documents\visual studio 2012\Projects\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.exe.config
+c:\users\brian\documents\visual studio 2012\Projects\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.exe
+c:\users\brian\documents\visual studio 2012\Projects\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.pdb
+c:\users\brian\documents\visual studio 2012\Projects\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.csprojResolveAssemblyReference.cache
+c:\users\brian\documents\visual studio 2012\Projects\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.BankingForm.resources
+c:\users\brian\documents\visual studio 2012\Projects\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.Properties.Resources.resources
+c:\users\brian\documents\visual studio 2012\Projects\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.csproj.GenerateResource.Cache
+c:\users\brian\documents\visual studio 2012\Projects\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.exe
+c:\users\brian\documents\visual studio 2012\Projects\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.pdb
+D:\blloyd\Documents\Visual Studio 2012\Projects\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.exe.config
+D:\blloyd\Documents\Visual Studio 2012\Projects\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.exe
+D:\blloyd\Documents\Visual Studio 2012\Projects\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.pdb
+D:\blloyd\Documents\Visual Studio 2012\Projects\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.exe
+D:\blloyd\Documents\Visual Studio 2012\Projects\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.pdb
+D:\blloyd\Documents\Visual Studio 2012\Projects\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.csprojResolveAssemblyReference.cache
+D:\blloyd\Documents\Visual Studio 2012\Projects\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.BankingForm.resources
+D:\blloyd\Documents\Visual Studio 2012\Projects\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.Properties.Resources.resources
+D:\blloyd\Documents\Visual Studio 2012\Projects\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.csproj.GenerateResource.Cache
+C:\Users\Brian\Desktop\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.exe.config
+C:\Users\Brian\Desktop\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.exe
+C:\Users\Brian\Desktop\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.pdb
+C:\Users\Brian\Desktop\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.exe
+C:\Users\Brian\Desktop\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.pdb
+C:\Users\Brian\Desktop\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.BankingForm.resources
+C:\Users\Brian\Desktop\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.Properties.Resources.resources
+C:\Users\Brian\Desktop\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.csproj.GenerateResource.Cache
+C:\Users\Brian\Desktop\HW 3\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.exe.config
+C:\Users\Brian\Desktop\HW 3\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.exe
+C:\Users\Brian\Desktop\HW 3\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.pdb
+C:\Users\Brian\Desktop\HW 3\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\HW 3\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.BankingForm.resources
+C:\Users\Brian\Desktop\HW 3\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.Properties.Resources.resources
+C:\Users\Brian\Desktop\HW 3\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.csproj.GenerateResource.Cache
+C:\Users\Brian\Desktop\HW 3\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.exe
+C:\Users\Brian\Desktop\HW 3\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.pdb
+C:\Users\Brian\Desktop\HW 4\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.exe.config
+C:\Users\Brian\Desktop\HW 4\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.exe
+C:\Users\Brian\Desktop\HW 4\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.pdb
+C:\Users\brian\Desktop\Web\CSharp\HW5\HW 4\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.exe.config
+C:\Users\brian\Desktop\Web\CSharp\HW5\HW 4\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.exe
+C:\Users\brian\Desktop\Web\CSharp\HW5\HW 4\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.pdb
+C:\Users\brian\Desktop\Web\CSharp\HW5\HW 4\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.csprojResolveAssemblyReference.cache
+C:\Users\brian\Desktop\Web\CSharp\HW5\HW 4\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.BankingForm.resources
+C:\Users\brian\Desktop\Web\CSharp\HW5\HW 4\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.Properties.Resources.resources
+C:\Users\brian\Desktop\Web\CSharp\HW5\HW 4\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.csproj.GenerateResource.Cache
+C:\Users\brian\Desktop\Web\CSharp\HW5\HW 4\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.exe
+C:\Users\brian\Desktop\Web\CSharp\HW5\HW 4\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.pdb
+C:\Users\brian\Desktop\Web\CSharp\HW5\HW 5\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.exe.config
+C:\Users\brian\Desktop\Web\CSharp\HW5\HW 5\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.exe
+C:\Users\brian\Desktop\Web\CSharp\HW5\HW 5\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.pdb
+C:\Users\brian\Desktop\Web\CSharp\HW5\HW 5\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.exe
+C:\Users\brian\Desktop\Web\CSharp\HW5\HW 5\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.pdb
+C:\Users\brian\Desktop\Web\CSharp\HW5\HW 5\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.csprojResolveAssemblyReference.cache
+C:\Users\brian\Desktop\Web\CSharp\HW5\HW 5\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.BankingForm.resources
+C:\Users\brian\Desktop\Web\CSharp\HW5\HW 5\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.Properties.Resources.resources
+C:\Users\brian\Desktop\Web\CSharp\HW5\HW 5\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.csproj.GenerateResource.Cache
+C:\Users\brian\Desktop\Web\CSharp\HW6\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.exe.config
+C:\Users\brian\Desktop\Web\CSharp\HW6\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.exe
+C:\Users\brian\Desktop\Web\CSharp\HW6\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.pdb
+C:\Users\brian\Desktop\Web\CSharp\HW6\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.exe
+C:\Users\brian\Desktop\Web\CSharp\HW6\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.pdb
+C:\Users\brian\Desktop\Web\CSharp\HW6\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.BankingForm.resources
+C:\Users\brian\Desktop\Web\CSharp\HW6\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.Properties.Resources.resources
+C:\Users\brian\Desktop\Web\CSharp\HW6\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.csproj.GenerateResource.Cache
+C:\Users\brian\Desktop\Web\CSharp\HW6\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.csprojResolveAssemblyReference.cache
+C:\Users\brian\Desktop\Web\CSharp\HW7\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.exe.config
+C:\Users\brian\Desktop\Web\CSharp\HW7\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.exe
+C:\Users\brian\Desktop\Web\CSharp\HW7\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.pdb
+C:\Users\brian\Desktop\Web\CSharp\HW7\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.exe
+C:\Users\brian\Desktop\Web\CSharp\HW7\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.pdb
+C:\Users\brian\Desktop\Web\CSharp\HW7\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.csprojResolveAssemblyReference.cache
+C:\Users\brian\Desktop\Web\CSharp\HW7\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.BankingForm.resources
+C:\Users\brian\Desktop\Web\CSharp\HW7\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.Properties.Resources.resources
+C:\Users\brian\Desktop\Web\CSharp\HW7\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.csproj.GenerateResource.Cache
+C:\Users\brian\Desktop\Web\CSharp\HW8\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.exe.config
+C:\Users\brian\Desktop\Web\CSharp\HW8\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.exe
+C:\Users\brian\Desktop\Web\CSharp\HW8\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.pdb
+C:\Users\brian\Desktop\Web\CSharp\HW8\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.exe
+C:\Users\brian\Desktop\Web\CSharp\HW8\BankingCIS166\BankingCIS166\bin\Debug\BankingCIS166.pdb
+C:\Users\brian\Desktop\Web\CSharp\HW8\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.csprojResolveAssemblyReference.cache
+C:\Users\brian\Desktop\Web\CSharp\HW8\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.BankingForm.resources
+C:\Users\brian\Desktop\Web\CSharp\HW8\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.Properties.Resources.resources
+C:\Users\brian\Desktop\Web\CSharp\HW8\BankingCIS166\BankingCIS166\obj\Debug\BankingCIS166.csproj.GenerateResource.Cache
